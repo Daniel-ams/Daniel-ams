@@ -7,6 +7,8 @@ I design the conceptual and commercial architecture of Business Consultants for 
 
 Co-authored by Monica M. Hernandez and Daniel A. Montero. All are open under CC BY 4.0.
 
+Their publication history, with the date each was first published and how to check it, is at [bcds-llc.github.io/publication-history](https://bcds-llc.github.io/publication-history/).
+
 * **Business Decision Architecture (BDA) Framework, v1.0**, 26 February 2026. The first publication of the BDA framework, time-stamped on the day it was published. [Repository](https://github.com/Daniel-ams/BDA-Framework-v-1.00)
 * **Solo Decision Architecture (SDA) Framework, v1.0**, March 2026. Co-author, with Monica M. Hernandez as primary author. [Repository](https://github.com/BCDS-LLC/Frameworks-BDA-and-SDA)
 * **Business Decision Architecture (BDA) Framework, v2.1**, March 2026. I designed its conceptual architecture: BDA as an organizational governance layer, and the three-layer model of open framework, proprietary platform and governed practitioner ecosystem. [Repository](https://github.com/BCDS-LLC/Frameworks-BDA-and-SDA)
